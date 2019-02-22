@@ -1,0 +1,11 @@
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\20190115-barcos\barcosFinal\barcosFinal\bin\Debug\netcoreapp2.1\barcosFinal.deps.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\20190115-barcos\barcosFinal\barcosFinal\bin\Debug\netcoreapp2.1\barcosFinal.runtimeconfig.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\20190115-barcos\barcosFinal\barcosFinal\bin\Debug\netcoreapp2.1\barcosFinal.runtimeconfig.dev.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\20190115-barcos\barcosFinal\barcosFinal\bin\Debug\netcoreapp2.1\barcosFinal.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\20190115-barcos\barcosFinal\barcosFinal\bin\Debug\netcoreapp2.1\barcosFinal.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\20190115-barcos\barcosFinal\barcosFinal\obj\Debug\netcoreapp2.1\barcosFinal.csproj.CoreCompileInputs.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\20190115-barcos\barcosFinal\barcosFinal\obj\Debug\netcoreapp2.1\barcosFinal.AssemblyInfoInputs.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\20190115-barcos\barcosFinal\barcosFinal\obj\Debug\netcoreapp2.1\barcosFinal.AssemblyInfo.cs
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\20190115-barcos\barcosFinal\barcosFinal\obj\Debug\netcoreapp2.1\barcosFinal.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\20190115-barcos\barcosFinal\barcosFinal\obj\Debug\netcoreapp2.1\barcosFinal.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\20190115-barcos\barcosFinal\barcosFinal\obj\Debug\netcoreapp2.1\barcosFinal.csprojAssemblyReference.cache

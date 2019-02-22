@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "barcosFinal", "barcosFinal\barcosFinal.csproj", "{989F23F4-6667-4828-B8CD-7E68260C4618}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BarcosTests", "BarcosTests\BarcosTests.csproj", "{54ED3CC7-4D31-4C0D-A074-DAD5E82DF4B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{989F23F4-6667-4828-B8CD-7E68260C4618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{989F23F4-6667-4828-B8CD-7E68260C4618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{989F23F4-6667-4828-B8CD-7E68260C4618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{989F23F4-6667-4828-B8CD-7E68260C4618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54ED3CC7-4D31-4C0D-A074-DAD5E82DF4B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54ED3CC7-4D31-4C0D-A074-DAD5E82DF4B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54ED3CC7-4D31-4C0D-A074-DAD5E82DF4B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54ED3CC7-4D31-4C0D-A074-DAD5E82DF4B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5BBF10D-53F9-4150-A6B7-4C1939D9EEF4}
+	EndGlobalSection
+EndGlobal
